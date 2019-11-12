@@ -1,3 +1,3 @@
 <div dir='auto'>
-<h2> ارائه Ansilbe مشهدلاگ </h1>
+<h2> ارائه Ansible مشهدلاگ </h1>
 </div>
