@@ -1,0 +1,10 @@
+---
+# This playbook disable the Nginx web server on hosts
+
+- name: disable Nginx service to all site nodes
+  gather_facts: no
+  hosts: site
+  remote_user: ubuntu
+  become: yes
+  roles:
+    - shutdown-nginx
