@@ -1,0 +1,6 @@
+---
+
+- name: disable nginx service
+  service:
+    name: nginx
+    state: stopped
