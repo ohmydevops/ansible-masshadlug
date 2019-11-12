@@ -1,18 +1,11 @@
 ---
 # This playbook deploys the Nginx web server on hosts
 
-- name: apply common configuration to all site nodes
-  gather_facts: no
-  hosts: site
-  remote_user: ubuntu
-  become: yes
-  roles:
-    - presetup
-
 - name: configure and deploy the Nginx to all site nodes
   gather_facts: no
   hosts: site
   remote_user: ubuntu
   become: yes
   roles:
-    - nginx
+    - presetup  
+    - install-nginx
