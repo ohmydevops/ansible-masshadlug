@@ -19,4 +19,14 @@ Ansible را اصطلاحا software provisioning, configuration management و a
 - [Bestpractice هایی برای نوشتن Playbook](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)
 - [لیست Module های موجود در Ansible و تنظیماتشون](https://docs.ansible.com/ansible/latest/user_guide/modules.html)
 
+
+مثال هایی از Ansible CLI:
+
+<div dir='ltr'>
+
+- <code>ansible localhost -m ping</code>
+- <code>ansible-inventory -i hosts.ini --list</code>
+
+</div>
+
 </div>
