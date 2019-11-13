@@ -31,10 +31,8 @@ Ansible را اصطلاحا software provisioning, configuration management و a
 - <code>ansible-inventory -i hosts.ini --graph</code>
 - <code>ansible-playbook install.yaml -K</code>
 - <code>ansible-playbook install.yaml -K --tags "update_ui"</code>
-- 
 - <code>ansible-doc --list</code>
 - <code>ansible-doc ufw</code>
-- <code>ansible-playbook install.yaml -K --tags "update_ui"</code>
 
 </div>
 
