@@ -24,8 +24,8 @@ Ansible را اصطلاحا software provisioning, configuration management و a
 
 <div dir='ltr'>
 
--<code>ansible localhost -m ping</code>
--<code>ansible -i hosts.ini all -m shell -a 'uname -s -r'</code>
+- <code>ansible localhost -m ping</code>
+- <code>ansible -i hosts.ini all -m shell -a 'uname -s -r'</code>
 - <code>ansible -i hosts.ini all -m setup</code>
 - <code>ansible-inventory -i hosts.ini --list</code>
 - <code>ansible-inventory -i hosts.ini --graph</code>
