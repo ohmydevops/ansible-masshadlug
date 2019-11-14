@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/294403aef0f4418f86d43639425d6262)](https://www.codacy.com/manual/amirbagh75/ansible-masshadlug?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amirbagh75/ansible-masshadlug&amp;utm_campaign=Badge_Grade)
 <div dir='auto'>
 <h2> ارائه Ansible مشهدلاگ </h1>
 </div>
