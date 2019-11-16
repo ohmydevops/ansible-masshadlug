@@ -13,7 +13,7 @@ Ansible را اصطلاحا software provisioning, configuration management و a
 
 -  [نصب کردن روی اوبونتو](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#latest-releases-via-apt-ubuntu)
 -  [مواد تشکیل دهنده Ansible](https://docs.ansible.com/ansible/latest/user_guide/basic_concepts.html)
--  [Inventory یا همان سرورهاamir1 در Ansible](https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html)
+-  [Inventory یا همان سرورها در Ansible](https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html)
 -  [اجرا کردن کامند ها بدون Playbook ها به صورت ad-hoc](https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html)
 -  [درک مفاهیم اولیه Playbook ها](https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html#playbooks-intro)
 -  [نوشتن Playbook های چندبار مصرف (DRY)](https://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse.html)
